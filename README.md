@@ -1,6 +1,6 @@
 # Random Quote Generator 
 
-## Desciption
+## Description
 - `requests` library is used, to make HTTP requests in Python
 - `quote.py` script is used to generate random quotes by fetching them from public API endpoint
 
